@@ -20,8 +20,20 @@ disabled SPEAKER</br>
 disabled ARC_SUPPORT</br>
 disabled EEPROM_CHITCHAT</br>
 
-<b>Flash Memory Usage:</b> 98% (127 Kb)
-<b>Variable Memory Usage:</b> 29% (4.79 Kb)
+<b>Flash Memory Usage:</b> 98% (127 Kb)</br>
+<b>Variable Memory Usage:</b> 29% (4.79 Kb)</br>
 
 ABL Probe Configurations
 =========================
+
+X_PROBE_OFFSET_FROM_EXTRUDER -40
+Y_PROBE_OFFSET_FROM_EXTRUDER -10
+Z_PROBE_OFFSET_FROM_EXTRUDER 2
+
+LEFT_PROBE_BED_POSITION 10
+RIGHT_PROBE_BED_POSITION 170
+FRONT_PROBE_BED_POSITION 30
+BACK_PROBE_BED_POSITION 190
+
+Z_MIN_ENDSTOP_INVERTING true
+Z_MIN_PROBE_ENDSTOP_INVERTING true
