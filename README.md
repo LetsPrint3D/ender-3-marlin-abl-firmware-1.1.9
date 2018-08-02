@@ -14,8 +14,14 @@ enabled AUTO_BED_LEVELING_BILINEAR</br>
 enabled FIX_MOUNTED_PROBE</br>
 enabled Z_SAFE_HOMING</br>
 
-<h3>Memory Saving Options</h3></br>
+<h3>Memory Saving Options</h3>
 enabled DISABLE_M503</br>
 disabled SPEAKER</br>
 disabled ARC_SUPPORT</br>
 disabled EEPROM_CHITCHAT</br>
+
+<b>Flash Memory Usage:</b> 98% (127 Kb)
+<b>Variable Memory Usage:</b> 29% (4.79 Kb)
+
+ABL Probe Configurations
+=========================
